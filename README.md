@@ -15,7 +15,7 @@ This project is a simple React application built with [React Flow](https://react
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/sidx8/Chatbot-flow-builder.git
+git clone https://github.com/rajpurnendu/Chatbot-flow-builder.git
 ```
 
 Navigate into the project directory:
@@ -37,15 +37,3 @@ npm start
 ```
 
 The application should now be running on http://localhost:3000.
-
-## Deployment
-
-The project can be deployed on any hosting service that supports Node.js applications. Examples of such services include Heroku, Vercel, and Netlify. Please refer to the respective platform's documentation for deploying React applications.
-
-## Contributing
-
-If you want to contribute to this project, you're always welcome! You can take a look at [contributing.md](https://github.com/sidx8/Chatbot-flow-builder/blob/main/CONTRIBUTING.md).
-
-## Support
-
-If you are having issues with the project, please let me know. i have an email, siddharth0sinha@gmail.com, where you can reach out to me.
